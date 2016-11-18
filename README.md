@@ -6,6 +6,7 @@
 	* App name
 	* Developer's Email Address
 	* Rating
+	* Age Rating
 	* More to be added
 
 ## Usage:
@@ -17,7 +18,12 @@
 * More imformation from apps
 * Gui
 * Translated into other languages
+* Music
 * Cool things\!
 
 ## Updates:
 * Lazy coder expect fuck all and be grateful when you get some :+1:
+
+##Task List:
+- [ ] GUI
+- [ ]  Music

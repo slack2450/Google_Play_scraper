@@ -43,6 +43,15 @@ def appScanRating(x):
     matching = matching.replace(" stars out of five stars\">","")
     matching = matching.split()[0][0:3]
     print("Rating: "+matching)
+def appScanAge(x):
+    url = "https://play.google.com/store/apps/details?id="+x+"&hl=en_GB"
+    req = urllib.request.Request(url)
+    with urllib.request.urlopen(req) as response:
+       the_page = str(response.read())
+    the_page = the_page.split("<")
+    matching = [s for s in the_page if "content-rating-title\"" in s]
+    matching = matching[0].replace("div class=\"document-subtitle content-rating-title\">","")
+    print("Age Rating: "+matching)
 
 print("\n"*2)
 print("===Starting App Search===")
@@ -53,6 +62,7 @@ for i in range(len(matching)):
     appScanName(matching[i-1])
     appScanEmail(matching[i-1])
     appScanRating(matching[i-1])
+    appScanAge(matching[i-1])
     print("")
 
 input()
