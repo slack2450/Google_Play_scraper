@@ -12,11 +12,12 @@
 * Simple, run the file and type what you want to search the play store for
 
 ## Planned features:
-* More flexibility\
-* Saving to files\
-* More imformation from apps\
-* Gui\
-* Translated into other languages\
-* Cool things\!\
+* More flexibility
+* Saving to files
+* More imformation from apps
+* Gui
+* Translated into other languages
+* Cool things\!
+
 ## Updates:
-* Lazy coder expect fuck all and be grateful when you get some :+1:\
+* Lazy coder expect fuck all and be grateful when you get some :+1:
