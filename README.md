@@ -1,6 +1,6 @@
 # Google Play Scraper
 ## Features
-* Searching the play store <br>
+* Searching the play store \<br>
 \* Grabbing all app ID's returned from the search
 \* Using these ID's to fetch more information such as
 	\* App name
