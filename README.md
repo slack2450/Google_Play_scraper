@@ -1,5 +1,5 @@
-#Google Play Scraper
-##Features:
+# Google Play Scraper
+## Features:
 * Searching the play store
 * Grabbing all app ID's returned from the search
 * Using these ID's to fetch more information such as:
@@ -7,14 +7,14 @@
 	* Developer's Email Address
 	* Rating
 	* More to be added\!
-###Usage:
+ ### Usage:
 * Simple, run the file and type what you want to search the play store for
-####Planned features:
+#### Planned features:
 * More flexibility
 * Saving to files
 * More imformation from apps
 * Gui
 * Translated into other languages
 * Cool things\!
-#####Updates:
+##### Updates:
 * Lazy coder expect fuck all and be grateful when you get some :+1:
