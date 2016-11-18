@@ -2,7 +2,7 @@
 ## Features:
 * Searching the play store
 * Grabbing all app ID's returned from the search
-* Using these ID's to fetch more information such as:
+* Using these ID's to fetch more information such as
 	* App name
 	* Developer's Email Address
 	* Rating
