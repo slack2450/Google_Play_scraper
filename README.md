@@ -6,7 +6,7 @@
 	\* App name\
 	\* Developer's Email Address\
 	\* Rating\
-	\* More to be added\
+	\* More to be added
 ## Usage:
 * Simple, run the file and type what you want to search the play store for\
 ## Planned features:
