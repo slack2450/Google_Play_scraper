@@ -7,7 +7,7 @@
 	\* Developer's Email Address
 	\* Rating
 	\* More to be added
-## Usage:
+<br>## Usage:
 * Simple, run the file and type what you want to search the play store for\
 ## Planned features:
 * More flexibility\
