@@ -8,7 +8,7 @@
 	\* Rating
 	\* More to be added
 
-<br>## Usage:
+## Usage:
 * Simple, run the file and type what you want to search the play store for\
 ## Planned features:
 * More flexibility\
